@@ -23,14 +23,15 @@
 
 - Use your preferred command line program (powershell, git bash, etc) to navigate to the program's root directory. For example: ~/Desktop/BootcampWork/Mod9ChalReadmeGen
 
-- In the command line, type the following: npm install /n If done correctly, your command line will install the node dependencies this app requires.
+- In the command line, type the following: npm install 
+- If done correctly, your command line will install the node dependencies this app requires.
 
 ## Usage
 
 - Use your preferred command line program to navigate to the program's root directory on your computer.
 
-- Type the following: node index.js
-  /n Follow the prompts on your command line program and answer the questions to the best of your ability.
+- Type the following: node index.js 
+- Follow the prompts on your command line program and answer the questions to the best of your ability.
 
 - Examine the new README.md file and check it for errors.
 
