@@ -53,4 +53,4 @@
 
 ## Walkthrough
 
-- A video walkthrough is available here:
+- A video walkthrough is available here: https://youtu.be/gUa1vau9WCk
