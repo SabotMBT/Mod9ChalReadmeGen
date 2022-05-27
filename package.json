@@ -1,0 +1,26 @@
+{
+  "name": "mod9chalreadmegen",
+  "version": "1.0.0",
+  "description": "A brief inqirer prompt to help users create a professional README file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabotMBT/Mod9ChalReadmeGen.git"
+  },
+  "keywords": [
+    "inquirer",
+    "README"
+  ],
+  "author": "SabotMBT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabotMBT/Mod9ChalReadmeGen/issues"
+  },
+  "homepage": "https://github.com/SabotMBT/Mod9ChalReadmeGen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
