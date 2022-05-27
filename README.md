@@ -24,7 +24,8 @@
 - Use your preferred command line program (powershell, git bash, etc) to navigate to the program's root directory. For example: ~/Desktop/BootcampWork/Mod9ChalReadmeGen
 
 - In the command line, type the following: npm install
-  If done correctly, your command line will install the node dependencies this app requires.
+  
+If done correctly, your command line will install the node dependencies this app requires.
 
 ## Usage
 
